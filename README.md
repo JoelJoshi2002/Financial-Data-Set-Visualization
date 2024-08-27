@@ -7,10 +7,10 @@ This Power BI project provides an in-depth analysis of sales data across multipl
 ![Dashboard Preview](https://github.com/JoelJoshi2002/Financial-Data-Set-Visualization/blob/main/Screen%20Shots/Screenshot%202024-08-27%20132821.png)
 
 ### Segment Wise Report
-![Segment Wise Report Preview](Screen%20Shots/segment_wise_report_preview.png)
+![Segment Wise Report Preview](https://github.com/JoelJoshi2002/Financial-Data-Set-Visualization/blob/main/Screen%20Shots/Screenshot%202024-08-27%20132830.png)
 
 ### Country Wise Report
-![Country Wise Report Preview](Screen%20Shots/country_wise_report_preview.png)
+![Country Wise Report Preview](https://github.com/JoelJoshi2002/Financial-Data-Set-Visualization/blob/main/Screen%20Shots/Screenshot%202024-08-27%20132840.png)
 ## Pages and Features
 
 ### 1. Dashboard
