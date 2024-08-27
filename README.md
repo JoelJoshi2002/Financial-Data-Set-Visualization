@@ -3,7 +3,14 @@
 ## Overview
 
 This Power BI project provides an in-depth analysis of sales data across multiple dimensions such as country, segment, and year. The report is divided into three pages, each offering unique insights through a variety of visualizations and interactive elements.
+### Dashboard Page
+![Dashboard Preview](Screen Shots/Screenshot 2024-08-27 132821.png)
 
+### Segment Wise Report
+![Segment Wise Report Preview](Screen%20Shots/segment_wise_report_preview.png)
+
+### Country Wise Report
+![Country Wise Report Preview](Screen%20Shots/country_wise_report_preview.png)
 ## Pages and Features
 
 ### 1. Dashboard
